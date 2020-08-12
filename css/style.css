@@ -1,0 +1,39 @@
+body {
+    background: rgb(231, 231, 231);
+}
+
+.wrapper {
+    width: 70%;
+    margin: auto;
+}
+
+.input-wrapper {
+    width: 40%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+ul li {
+    transition: 0.5s !important;
+}
+
+ul li:hover {
+    padding-left: 22px !important;
+    transition: 0.5s;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+#inputForm {
+    padding: 30px;
+}
+
+.dropdown {
+    right: 0;
+}
+
+.addmargin {
+    margin-bottom: 30px;
+}
